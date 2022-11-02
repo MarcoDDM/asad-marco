@@ -13,4 +13,7 @@
 
 #welcome-section {
     height: 100vh;
+    width: 100vw;
+    display: block;
+
 }
